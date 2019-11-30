@@ -1,0 +1,7 @@
+{
+  "name": "sistemaGerenciamentoCursoApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
