@@ -21,4 +21,4 @@ Abaixo os dados a serem utilizados na autenticação do aplicativo.
 
 Usuário: anderson.pancheniak@outlook.com
 
-Senha: grepmore
+Senha: xxxxxx
